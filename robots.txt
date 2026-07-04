@@ -1,4 +1,10 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sangam-coin-song.node-link.shop/sitemap.xml
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://shirts-hapjeong.xyz/sitemap.xml

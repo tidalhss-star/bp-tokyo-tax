@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tokyo-tax.node-link.shop/sitemap.xml
+Sitemap: https://sangam-coin-song.node-link.shop/sitemap.xml
